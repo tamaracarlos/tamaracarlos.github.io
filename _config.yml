@@ -9,7 +9,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/tamara.jpg
+# picture: assets/images/tamara.jpg
 
 url: http://koppl.in/indigo
 # your url: http://USERNAME.github.io
